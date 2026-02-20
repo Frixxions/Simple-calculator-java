@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ders {
+public class Calculator {
 
     public static void main(String[] args) {
     String girText1 = "Enter The First Number: ";
